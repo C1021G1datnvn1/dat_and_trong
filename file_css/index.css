@@ -3,4 +3,9 @@
 }
 #body{
     color: aqua;
+    height: 100px;
+}
+body{
+    background-color: blanchedalmond;
+    width: 100px;
 }
